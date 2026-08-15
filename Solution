@@ -1,1 +1,2 @@
-# MSC_Nastran_Solving_Error78
+Sol. By SOL103 Free-Free Modal Analysis found the Base of the dolly moving towards left hand side, attached the Base of the dolly WHEELS by RBE2 later did SPC Z translational fixed.
+And also found the Bush element was wrongly attached to the RBE2 and re attached to the nodes.
